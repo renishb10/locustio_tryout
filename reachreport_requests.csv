@@ -1,0 +1,9 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"POST","/test/auth/v2/login",10,0,570,610,515,763,206,0.37
+"GET","/test/ls/v2/missions",1,0,670,673,673,673,5267,0.04
+"GET","/test/ls/v2/users/encouragements",2,0,1100,1209,1103,1316,2,0.07
+"GET","/test/ls/v2/users/progress",1,0,1100,1126,1126,1126,18388,0.04
+"GET","/test/ls/v2/users/results",3,0,580,611,519,733,8802,0.11
+"GET","/test/ls/v2/users/trophies",1,0,1600,1580,1580,1580,2367,0.04
+"GET","/test/ps/v2/users/profiles",13,0,760,803,637,966,1260,0.48
+"None","Total",31,0,720,780,515,1580,2286,1.15

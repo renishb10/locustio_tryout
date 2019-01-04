@@ -1,0 +1,6 @@
+TODO LIST - RenishB
+1 - Randomly serve test mission ids
+2 - Name endpoints instead showing endpoints itself in the report
+3 - Add PS and XAPI calls
+4 - Add for non-english as well
+5 - Add testmode by skills and templates with random serve
